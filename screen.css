@@ -1,1 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 
+.hero {
+  width: 100%;
+}
+
+h1 {
+  position: absolute;
+  right: 20px;
+  top: 0;
+  font-size: 130px;
+  font-family: Helvetica;
+}
+
+.content {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.info {
+  width: 450px;
+  padding-right: 25px;
+  display: inline-block;
+  font-family: Helvetica;
+  margin-bottom: 30px;
+}
+
+.info h2 {
+  font-size: 30px;
+}
+
+.info p {
+  font-size: 20px;
+}
+
+.thumbnail {
+  width: 270px;
+  border: 1px solid lightgray;
+  vertical-align: top;
+  padding: 3px;
+  margin-right: 30px;
+}
