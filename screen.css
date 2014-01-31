@@ -24,7 +24,6 @@ div{
   margin: 0 auto;
   display: inline-block;
   text-align: center;
-  clear: both;
 }
 
 .left{
@@ -46,8 +45,6 @@ div{
 .subImg{
   width: 200px;
   vertical-align: top;
-  text-align: center;
   display: inline;
-  clear: top;
   margin: 5px;
 }
