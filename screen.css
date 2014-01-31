@@ -1,1 +1,53 @@
+body{
+  margin: 0;
+}
 
+h1{
+font-family: Helvetica;
+font-size: 50px;
+position: absolute;
+display: inline-block;
+right: 10%;
+top: 2.5%;
+}
+
+h2{
+  font-family: Helvetica;
+}
+
+p{
+  font-family: Helvetica;
+}
+
+div{
+  width: 100%;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+  clear: both;
+}
+
+.left{
+  width: 300px;
+  text-align: left;
+  margin: 5px;
+}
+
+.right{
+  width: 300px;
+  text-align: left;
+  margin: 5px;
+}
+
+.megaImage{
+  width: 100%;
+}
+
+.subImg{
+  width: 200px;
+  vertical-align: top;
+  text-align: center;
+  display: inline;
+  clear: top;
+  margin: 5px;
+}
